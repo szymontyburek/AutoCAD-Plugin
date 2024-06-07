@@ -1,0 +1,17 @@
+C:\Users\szymo\OneDrive\Desktop\Coding\AutoCAD_Plugins\CubeBuild\CubeBuild\bin\Debug\net8.0\CubeBuild.deps.json
+C:\Users\szymo\OneDrive\Desktop\Coding\AutoCAD_Plugins\CubeBuild\CubeBuild\bin\Debug\net8.0\CubeBuild.dll
+C:\Users\szymo\OneDrive\Desktop\Coding\AutoCAD_Plugins\CubeBuild\CubeBuild\bin\Debug\net8.0\CubeBuild.pdb
+C:\Users\szymo\OneDrive\Desktop\Coding\AutoCAD_Plugins\CubeBuild\CubeBuild\bin\Debug\net8.0\accoremgd.dll
+C:\Users\szymo\OneDrive\Desktop\Coding\AutoCAD_Plugins\CubeBuild\CubeBuild\bin\Debug\net8.0\acdbmgd.dll
+C:\Users\szymo\OneDrive\Desktop\Coding\AutoCAD_Plugins\CubeBuild\CubeBuild\bin\Debug\net8.0\acmgd.dll
+C:\Users\szymo\OneDrive\Desktop\Coding\AutoCAD_Plugins\CubeBuild\CubeBuild\obj\Debug\net8.0\CubeBuild.csproj.AssemblyReference.cache
+C:\Users\szymo\OneDrive\Desktop\Coding\AutoCAD_Plugins\CubeBuild\CubeBuild\obj\Debug\net8.0\CubeBuild.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\szymo\OneDrive\Desktop\Coding\AutoCAD_Plugins\CubeBuild\CubeBuild\obj\Debug\net8.0\CubeBuild.AssemblyInfoInputs.cache
+C:\Users\szymo\OneDrive\Desktop\Coding\AutoCAD_Plugins\CubeBuild\CubeBuild\obj\Debug\net8.0\CubeBuild.AssemblyInfo.cs
+C:\Users\szymo\OneDrive\Desktop\Coding\AutoCAD_Plugins\CubeBuild\CubeBuild\obj\Debug\net8.0\CubeBuild.csproj.CoreCompileInputs.cache
+C:\Users\szymo\OneDrive\Desktop\Coding\AutoCAD_Plugins\CubeBuild\CubeBuild\obj\Debug\net8.0\CubeBuild.sourcelink.json
+C:\Users\szymo\OneDrive\Desktop\Coding\AutoCAD_Plugins\CubeBuild\CubeBuild\obj\Debug\net8.0\CubeBuild.csproj.Up2Date
+C:\Users\szymo\OneDrive\Desktop\Coding\AutoCAD_Plugins\CubeBuild\CubeBuild\obj\Debug\net8.0\CubeBuild.dll
+C:\Users\szymo\OneDrive\Desktop\Coding\AutoCAD_Plugins\CubeBuild\CubeBuild\obj\Debug\net8.0\refint\CubeBuild.dll
+C:\Users\szymo\OneDrive\Desktop\Coding\AutoCAD_Plugins\CubeBuild\CubeBuild\obj\Debug\net8.0\CubeBuild.pdb
+C:\Users\szymo\OneDrive\Desktop\Coding\AutoCAD_Plugins\CubeBuild\CubeBuild\obj\Debug\net8.0\ref\CubeBuild.dll
