@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CubeBuild")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb018f4aa1e73ee0138ed534ba8ced4f5c91f619")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8f3ff726a8d3be03f443bcd30ab54ae7dbb729f0")]
 [assembly: System.Reflection.AssemblyProductAttribute("CubeBuild")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CubeBuild")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
