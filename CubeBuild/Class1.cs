@@ -11,9 +11,16 @@ namespace CubeBuild
         [CommandMethod("CreateCube")]
         public static void CreateCube()
         {
+            double boxDims;
+
             // Get the current document and database, and start a transaction
             Document acDoc = Application.DocumentManager.MdiActiveDocument;
             Database acCurDb = acDoc.Database;
+
+            PromptStringOptions pStrOpts = new PromptStringOptions("\nEnter value for cube width, length, and height: ");
+            pStrOpts.AllowSpaces = true;
+            PromptResult pStrRes = acDoc.Editor.GetString(pStrOpts);
+            boxDims = Convert.ToDouble(pStrRes.StringResult);
 
             using (Transaction acTrans = acCurDb.TransactionManager.StartTransaction())
             {
@@ -30,7 +37,8 @@ namespace CubeBuild
                 // Create a 3D solid wedge
                 using (Solid3d acSol3D = new Solid3d())
                 {
-                    acSol3D.CreateBox(6, 6, 6);
+                    
+                    acSol3D.CreateBox(boxDims, boxDims, boxDims);
 
                     // Position the center of the 3D solid at (5,5,0) 
                     acSol3D.TransformBy(Matrix3d.Displacement(new Point3d(5, 5, 0) -
